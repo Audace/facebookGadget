@@ -1,5 +1,5 @@
 # facebookGadget
-###Steps to use Facebook's JavaScript SDK on Google Sites
+### Steps to use Facebook's JavaScript SDK on Google Sites
 
 1. Get code for plugin using https://developers.facebook.com/docs/plugins
 2. Insert into .xml file following format of sample file here
@@ -9,5 +9,5 @@
 6. Click Insert -> More gadgets... -> Add gadget by URL
 7. Paste link to uploaded .xml file
 
-###Notes
+### Notes
 - Make sure at least one `ModulePrefs` is included
